@@ -4,7 +4,7 @@
 
 ### Photo
 
-![Photo unplash](https://github.com/mcvargasb17/APPDEV-u108344/blob/160d74c97df8fa2bab5d0544aa9e6117b14bb85a/georgia-de-lotz-unsplash.jpg)
+![Photo unplash](https://github.com/mcvargasb17/APPDEV-u108344/blob/70e36c359b9b299cd572bbccef7eee51c8ae0600/georgia-de-lotz-unsplash.jpg)
 
 ### Atribución
 
